@@ -107,6 +107,8 @@
 		7961461A18D4E5B100CAB86C /* JHInfiniteScrollView */ = {
 			isa = PBXGroup;
 			children = (
+				7961464418D4EA6A00CAB86C /* JHScrollViewExample */,
+				7961464318D4EA5E00CAB86C /* JHScrollView */,
 				7961462318D4E5B100CAB86C /* JHAppDelegate.h */,
 				7961462418D4E5B100CAB86C /* JHAppDelegate.m */,
 				7961462618D4E5B100CAB86C /* Images.xcassets */,
@@ -142,6 +144,20 @@
 				7961463618D4E5B100CAB86C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		7961464318D4EA5E00CAB86C /* JHScrollView */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = JHScrollView;
+			sourceTree = "<group>";
+		};
+		7961464418D4EA6A00CAB86C /* JHScrollViewExample */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = JHScrollViewExample;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -442,6 +458,7 @@
 				7961463F18D4E5B100CAB86C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7961464018D4E5B100CAB86C /* Build configuration list for PBXNativeTarget "JHInfiniteScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -450,6 +467,7 @@
 				7961464218D4E5B100CAB86C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
