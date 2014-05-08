@@ -1,3 +1,3 @@
 JHInfiniteScrollView
 ====================
-It has the implementation of infinte uiscrollview.
+Will start on this soon ..
